@@ -1,12 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void solve(){
-    
-    
-}
-
-
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
@@ -38,7 +32,7 @@ int main() {
         cout << n-cnt << " " << cnt << endl;
         for(int i=0; i<n-cnt; i++) cout << nums[i] << " ";
         cout << endl;
-        for(int i=n-cnt; i<n; i++) cout << nums[i] << " "; //12 12 8 4 4
+        for(int i=n-cnt; i<n; i++) cout << nums[i] << " ";
         cout << endl;
 
     }

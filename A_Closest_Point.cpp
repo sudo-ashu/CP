@@ -24,26 +24,6 @@ int main() {
 
         else cout << "NO" << endl;
 
-
-        // for(int i=1; i<n; i++) {
-
-        //     if((nums[i] - nums[i-1]) == 1) {
-        //         flag = true;
-        //         break;
-        //     }
-
-        // }
-
-        // if(flag == true) {
-        //     cout << "NO" << endl;
-        //     continue;
-        // }
-
-        // ll a1 = nums[0], a2 = nums[n-1];
-        // cout << (a1+a2)/2;
-
-        // cout << "NO" << endl;
-
     }
 
     return 0;
